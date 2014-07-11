@@ -18,7 +18,7 @@ function SetReminder() {
   var hidecl= columnname+12;
   var rowname = activecell.getRow();
  //Browser.msgBox(columnname);
- //
+
  var cel1 = SpreadsheetApp.getActiveSheet().getRange(rowname, hidecl, 1, 1).getValues();
  var firstCell = SpreadsheetApp.getActiveSheet().getRange(2, columnname, 1, 1).getValues();
 //  Browser.msgBox(firstCell);
