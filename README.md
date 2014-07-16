@@ -15,7 +15,7 @@ To do that, Open Google Calendar --> Settings Icon (Right Top Corner) --> --> Se
 
 Retrieve the code from your mobile and enter the same under  "Verification Code" and Click on "Finish Setup".
 
-Now save a copy of the "My Tracking Sheet" in your Google Drive.You can ask for the same from anoop.bhargava@eclinicalworks.com. Fill the required columns like, Clients, APUID and Mentors. 
+Now save a copy of the "My Tracking Sheet" in your Google Drive.You can ask for the same from Anoop 
 
 ![](https://github.com/anoopbhargava/SpreadSheet-Calendar/blob/master/pics/2.PNG)
 
