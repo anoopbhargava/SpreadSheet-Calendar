@@ -29,7 +29,6 @@ Click on Run (In the menu Bar of the "My Tracking Sheet")  --> SetReminder and a
 
 That's it we are done. Now everytime you extract data for a particular Client just enter the Date along with time as 18:00:00 under the Client's column in the "Count" sheet in "My Tracking Sheet". 
 
-![](https://github.com/anoopbhargava/SpreadSheet-Calender/raw/master/picss/3.PNG)
 
 This will automatically trigger a SMS reminder to you mobile phone after 14 days as soon as you enter the office. It can be set to 7 days also in case of Clients where you need to extract the data weekly.
 
